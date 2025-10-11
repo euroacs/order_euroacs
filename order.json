@@ -362,5 +362,50 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1760198301069,
+    "card": [
+      {
+        "imageSrc": "/img/sd-eu-d27.jpg",
+        "productName": "YADDAS SD 16GB EUROACS EU-D27",
+        "productPrice": "9.50 AZN",
+        "count": "71",
+        "getId": "RWL2679",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "/img/glass-p20.jpg",
+        "productName": "REDMI NOTE 8 PRIVACY P20",
+        "productPrice": "0.80 AZN",
+        "count": "4",
+        "getId": "CFH7077",
+        "brand": "Ümumi"
+      },
+      {
+        "imageSrc": "img/wa-1025-5.jpg",
+        "productName": "[44-49MM] REMEN SAAT WA-1025 SILIKON DALGALI",
+        "productPrice": "2.50 AZN",
+        "count": 1,
+        "getId": "VGM6754",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/yaddas-mikro-4gb.jpg",
+        "productName": "YADDAS MIKRO 4GB EUROACS",
+        "productPrice": "4 AZN",
+        "count": "6",
+        "getId": "AAZ7206",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/IMG-20251010-WA0021.jpg",
+        "productName": "CAR BASLIQ USB FONI FN-KB220 2 USB",
+        "productPrice": "2.20 AZN",
+        "count": 1,
+        "getId": "EUH2032",
+        "brand": ""
+      }
+    ]
   }
 ]
