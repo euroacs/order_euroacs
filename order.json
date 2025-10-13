@@ -542,5 +542,34 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1760352873870,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/yaddas-mikro-64gb.jpg",
+        "productName": "YADDAS MIKRO 64GB EUROACS",
+        "productPrice": "10 AZN",
+        "count": "3",
+        "getId": "ZJU8673",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/yaddas-mikro-32gb.jpg",
+        "productName": "YADDAS MIKRO 32GB EUROACS",
+        "productPrice": "7 AZN",
+        "count": "5",
+        "getId": "NVV0802",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/yaddas-mikro-128gb.jpg",
+        "productName": "YADDAS MIKRO 128GB EUROACS",
+        "productPrice": "18 AZN",
+        "count": "2",
+        "getId": "LHL2238",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
