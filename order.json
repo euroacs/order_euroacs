@@ -521,5 +521,26 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1760340584748,
+    "card": [
+      {
+        "imageSrc": "img/LED-45SM.jpg",
+        "productName": "LED 45SM RGB+HOLDER",
+        "productPrice": "42 AZN",
+        "count": "5",
+        "getId": "UBK1299",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/LED 56SM.jpg",
+        "productName": "LED 56SM RGB+HOLDER",
+        "productPrice": "57 AZN",
+        "count": "5",
+        "getId": "MEA7978",
+        "brand": ""
+      }
+    ]
   }
 ]
