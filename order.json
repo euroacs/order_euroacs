@@ -600,5 +600,18 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1760354073588,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251013-WA0010.jpg",
+        "productName": "CAMERA KIDS EUROACS EU-K302",
+        "productPrice": "55 AZN",
+        "count": "2",
+        "getId": "HHD3152",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
