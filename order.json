@@ -571,5 +571,34 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1760353383883,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251013-WA0013.jpg",
+        "productName": "CHARGER JOYSTICK EUROACS EU-GC401",
+        "productPrice": "25 AZN",
+        "count": "5",
+        "getId": "PSD3114",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/IMG-20251013-WA0010.jpg",
+        "productName": "CAMERA KIDS EUROACS EU-K302",
+        "productPrice": "55 AZN",
+        "count": "5",
+        "getId": "LTC0306",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/WhatsApp Şəkil 2025-09-15 saat 17.35.13_6fea7a56.jpg",
+        "productName": "CAR CHARGER PD 68W EUROACS EU-MC440 USB",
+        "productPrice": "17 AZN",
+        "count": "2",
+        "getId": "RAY5354",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
