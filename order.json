@@ -407,5 +407,34 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1760340168463,
+    "card": [
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-15 saat 17.35.13_6fea7a56.jpg",
+        "productName": "CAR CHARGER PD 68W EUROACS EU-MC440 USB",
+        "productPrice": "17 AZN",
+        "count": "5",
+        "getId": "VVB9248",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/eu-mc442.jpg",
+        "productName": "CAR BASLIQ PD 48W EUROACS EU-MC445 QC",
+        "productPrice": "7.50 AZN",
+        "count": "3",
+        "getId": "WIG8922",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/MC435.jpg",
+        "productName": "CAR CHARGER PD 60W EUROACS EU-MC435 C",
+        "productPrice": "8.50 AZN",
+        "count": "2",
+        "getId": "SRU9637",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
