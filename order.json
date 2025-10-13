@@ -484,5 +484,42 @@
   {
     "id": 1760340438393,
     "card": []
+  },
+  {
+    "id": 1760340557832,
+    "card": [
+      {
+        "imageSrc": "img/EU-M42.jpg",
+        "productName": "MOUSE WIRELESS EUROACS EU-M42 SILENT",
+        "productPrice": "7.50 AZN",
+        "count": "10",
+        "getId": "WWL6969",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/EU-M40.jpg",
+        "productName": "MOUSE WIRELESS EUROACS EU-M40 SILENT",
+        "productPrice": "6.80 AZN",
+        "count": "10",
+        "getId": "SVZ3843",
+        "brand": "Euroacs"
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-01 saat 13.01.33_dfa006a3.jpg",
+        "productName": "LED PLOKAMA PK-330 +HOLDER",
+        "productPrice": "15 AZN",
+        "count": "10",
+        "getId": "XQX2676",
+        "brand": ""
+      },
+      {
+        "imageSrc": "img/WhatsApp Şəkil 2025-09-01 saat 13.00.40_46cf1546.jpg",
+        "productName": "LED PLOKAMA LIVE R56SM PRO RGB+3HOLDER",
+        "productPrice": "65 AZN",
+        "count": "10",
+        "getId": "BLH6961",
+        "brand": ""
+      }
+    ]
   }
 ]
