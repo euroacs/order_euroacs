@@ -613,5 +613,18 @@
         "brand": "Euroacs"
       }
     ]
+  },
+  {
+    "id": 1762192867985,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/RT69F.jpg",
+        "productName": "HOLDER CAR VACUUM RT69F",
+        "productPrice": "6.50 AZN",
+        "count": "5",
+        "getId": "DBK0842",
+        "brand": ""
+      }
+    ]
   }
 ]
