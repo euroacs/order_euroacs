@@ -626,5 +626,18 @@
         "brand": ""
       }
     ]
+  },
+  {
+    "id": 1765375973522,
+    "card": [
+      {
+        "imageSrc": "https://gpr-xirdalan.github.io/img/eu-p66.jpg",
+        "productName": "OTURUCU C TO OTG EUROACS EU-P066",
+        "productPrice": "2 AZN",
+        "count": "5",
+        "getId": "ZWR5202",
+        "brand": "Euroacs"
+      }
+    ]
   }
 ]
